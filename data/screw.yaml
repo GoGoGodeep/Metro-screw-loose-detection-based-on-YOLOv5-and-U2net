@@ -1,0 +1,11 @@
+path: E:\Screwdataset
+train:
+  - screw_train.txt
+val:
+  - screw_val.txt
+test:
+  - screw_test.txt
+
+# Classes
+names:
+  0: screw
